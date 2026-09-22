@@ -20,9 +20,9 @@
     "@strapi/plugin-cloud": "5.54.0",
     "@strapi/plugin-users-permissions": "5.54.0",
     "@strapi/strapi": "5.54.0",
-    "better-sqlite3": "12.8.0",
     "fs-extra": "^10.0.0",
     "mime-types": "^2.1.27",
+    "pg": "8.20.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "^6.30.3",
@@ -39,7 +39,7 @@
     "npm": ">=6.0.0"
   },
   "strapi": {
-    "uuid": "1785e79b-139e-48e2-8e6f-53b258804361",
-    "installId": "78da089c6be7d1c180b82842d68572b609f6b36668fbf03a759897901f49d177"
+    "uuid": "012d9da4-9b31-4b0c-95af-51e0008c0b49",
+    "installId": "951faeec39929acb41957954f84aadcf30ba32edd35b3a4d48cb2337eec72af3"
   }
 }
